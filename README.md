@@ -1,4 +1,4 @@
-# GrainsDoc-AndroidDevChallenge
+# GrainsDoc \#AndroidDevChallenge
 
 # Food Grains Health detector 
 I'm a final year undergrad Mechanical Engineer and for my capstone project I'm working on grain storage solution for mid-scale farmers in India. Food Grain storage is one of major issues which costs billions of dollars in loses each year. Me and my team have designed the silos and are working on the final prototype. We're going to use Raspbery Pi and Tensorflow Lite to detect fungal growth in grains using CNNs and Humidity Sensors. I want to bring the same solution to small scale farmers in the form of an app as buying silos and raspbery pi is uneconomical for them. Due to poor connectivity the ML model needs to be offline (on-device).
